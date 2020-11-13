@@ -1,0 +1,29 @@
+{
+	"2020089_M1670" : {
+		"booking_code" : "IOH7",
+		"passenger" : {
+			"title" : "Mr/Ms.",
+			"front_name" : "Fazle Mawla",
+			"last_name" : "Ghazawan",
+		},
+		"origin" : {
+			"city" : "Palembang",
+			"airport" : "PLM",
+		},
+		"destination" : {
+			"city" : "Bali",
+			"airport" : "XXX"
+		},
+		"time" : {
+			"check_in" : "12.00",
+			"boarding" : "13.00",
+			"arrival" : "15.50",
+		},
+		"terminal" : "7",
+		"gate" : "6Y",
+		"airline" : "Qatar",
+		"seat" : "2A",
+		"class" : "Bussiness Class",
+		"baggage" : "None"
+	}
+}
